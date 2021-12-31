@@ -6,3 +6,4 @@
 
 还安装了proxychains-ng、==宝塔==、dnsmasq、resolvconf。
 
+单独配置了netplan。
